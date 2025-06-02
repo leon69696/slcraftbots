@@ -1,7 +1,9 @@
 # Slcraft `Bots`
 **Opisy botów:**
 #
-Brak
+## Ticket:
+Komędy:
+`/ticket` Wysyła panel ticketów  
 
 
 
