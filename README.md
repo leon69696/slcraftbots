@@ -1,1 +1,8 @@
-# Slcraft
+# Slcraft `Bots`
+**Opisy botów:**
+#
+Brak
+
+
+
+
