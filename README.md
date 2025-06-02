@@ -5,7 +5,7 @@
 Komędy:
 `/ticket` Wysyła panel ticketów  
 
--# By: https://dc.gg/slcraft
+#### By: https://dc.gg/slcraft
 
 
 
